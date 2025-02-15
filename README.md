@@ -1,4 +1,4 @@
-## about Me:
+## about me:
 <h1 align="center">yo i'm advith</h1>
 <h3 align="center">an engineer</h3>
 

@@ -1,6 +1,6 @@
-## 👋 About Me:
-<h1 align="center">Hi 👋, I'm Advith</h1>
-<h3 align="center">Engineer.</h3>
+## About Me:
+<h1 align="center">yo i'm Advith</h1>
+<h3 align="center">an engineer</h3>
 
 ## 🌐 Socials:
 <h3 align="left">Connect with me:</h3>

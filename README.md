@@ -1,5 +1,5 @@
 ## about me:
-<h1 align="center">yo i'm advith</h1>
+<h1 align="center">hi, i'm advith</h1>
 <h3 align="center">an engineer</h3>
 
 ## 🌐 socials:
